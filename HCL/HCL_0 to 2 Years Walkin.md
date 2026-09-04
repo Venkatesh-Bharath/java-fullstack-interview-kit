@@ -103,7 +103,7 @@
    b) 6  
    c) Compile-time error  
    d) Runtime error  
-   **Answer:** a) 5  
+   **Answer:** a) 6  
 
 ---
 
